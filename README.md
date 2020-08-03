@@ -29,7 +29,7 @@
   <tr>
     <td align="center">
       <a href="https://www.jetbrains.com/phpstorm">
-        <img src="https://avatars2.githubusercontent.com/u/37309201?v=4" width="100px;" alt="PHPStorm"/><br/>
+        <img src="https://user-images.githubusercontent.com/5023924/88967662-bfd99080-d273-11ea-998f-8284c31b61db.png" width="100px;" alt="PHPStorm"/><br/>
         <sub><b>PHPStorm</b></sub><br/>
       </a>
     </td>
@@ -41,7 +41,7 @@
     </td>
     <td align="center">
       <a href="https://insomnia.rest">
-        <img src="https://avatars2.githubusercontent.com/u/37309201?v=4" width="100px;" alt="Insomnia"/><br/>
+        <img src="https://insomnia.rest/images/twitter-card-icon.png" width="100px;" alt="Insomnia"/><br/>
         <sub><b>Insomnia</b></sub><br/>
       </a>
     </td>
