@@ -18,8 +18,15 @@
     </td>
     <td align="center">
       <a href="https://reactjs.org">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="100px;" alt="React"/>         <br/>
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="100px;" alt="React"/><br/>
         <b>React</b><br/>
+      </a>
+      <sub>Javascript Framework</sub><br/>
+    </td>
+    <td align="center">
+      <a href="https://vuejs.org">
+        <img src="https://avatars3.githubusercontent.com/u/6128107?s=200&v=4" width="100px;" alt="React"/><br/>
+        <b>Vue</b><br/>
       </a>
       <sub>Javascript Framework</sub><br/>
     </td>
@@ -52,6 +59,22 @@
       <sub>API Manager</sub><br/>
     </td>
     <td align="center">
+      <a href="https://todoist.com">
+        <img src="https://ga1.imgix.net/logo/o/102437-1513159611-560784?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format" width="100px;" alt="Todoist"/><br/>
+        <b>Todoist</b><br/>
+      </a>
+      <sub>Task Manager</sub><br/>
+    </td>
+  </tr>
+  <tr> 
+    <td align="center">
+      <a href="https://slack.com">
+        <img src="https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png" width="100px;" alt="Notion"/><br/>
+        <b>Slack</b><br/>
+      </a>
+      <sub>Messaging</sub><br/>
+    </td>
+    <td align="center">
       <a href="https://github.com/DaltonMcCleery">
         <img src="https://avatars1.githubusercontent.com/u/12301619?s=200&v=4" width="100px;" alt="Brave"/><br/>
         <b>Brave</b><br/>
@@ -64,13 +87,6 @@
         <b>Spark</b><br/>
       </a>
       <sub>Email Client</sub><br/>
-    </td>
-    <td align="center">
-      <a href="https://todoist.com">
-        <img src="https://ga1.imgix.net/logo/o/102437-1513159611-560784?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format" width="100px;" alt="Todoist"/><br/>
-        <b>Todoist</b><br/>
-      </a>
-      <sub>Task Manager</sub><br/>
     </td>
     <td align="center">
       <a href="https://www.notion.so">
