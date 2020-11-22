@@ -88,12 +88,5 @@
       </a>
       <sub>Email Client</sub><br/>
     </td>
-    <td align="center">
-      <a href="https://www.notion.so">
-        <img src="https://upload.wikimedia.org/wikipedia/en/4/45/Notion_app_logo.png" width="100px;" alt="Notion"/><br/>
-        <b>Notion</b><br/>
-      </a>
-      <sub>Note Manager</sub><br/>
-    </td>
   </tr>
 </table>
