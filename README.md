@@ -53,7 +53,7 @@
     </td>
     <td align="center">
       <a href="https://insomnia.rest">
-        <img src="https://insomnia.rest/images/twitter-card-icon.png" width="100px;" alt="Insomnia"/><br/>
+        <img src="https://insomnia.rest/images/insomnia-logo-bug.svg" width="100px;" alt="Insomnia"/><br/>
         <b>Insomnia</b><br/>
       </a>
       <sub>API Manager</sub><br/>
