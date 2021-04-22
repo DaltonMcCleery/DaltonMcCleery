@@ -58,13 +58,6 @@
       </a>
       <sub>API Manager</sub><br/>
     </td>
-    <td align="center">
-      <a href="https://todoist.com">
-        <img src="https://ga1.imgix.net/logo/o/102437-1513159611-560784?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format" width="100px;" alt="Todoist"/><br/>
-        <b>Todoist</b><br/>
-      </a>
-      <sub>Task Manager</sub><br/>
-    </td>
   </tr>
   <tr> 
     <td align="center">
