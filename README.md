@@ -2,6 +2,8 @@
 
 [![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonMcCleery&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonMcCleery&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Specialties
 
 <table>
