@@ -16,13 +16,6 @@
       <sub>PHP Framework</sub><br/>
     </td>
     <td align="center">
-      <a href="https://symfony.com">
-        <img src="https://avatars0.githubusercontent.com/u/143937?s=200&v=4" width="100px;" alt="Symfony"/><br/>
-        <b>Symfony</b><br/>
-      </a>
-      <sub>PHP Framework</sub><br/>
-    </td>
-    <td align="center">
       <a href="https://reactjs.org">
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="100px;" alt="React"/><br/>
         <b>React</b><br/>
@@ -92,7 +85,7 @@
 
 ## Examples of Sites I've Built
 
-- [www.ralstonfamilyfarms.com](https://www.ralstonfamilyfarms.com)
+- [greetonrepeat.com](https://greetonrepeat.com)
 - [www.centerpointarchery.com](https://www.centerpointarchery.com)
 - [phoenixbassboats.com](https://phoenixbassboats.com)
 - [bucksandjakes.com](https://bucksandjakes.com)
