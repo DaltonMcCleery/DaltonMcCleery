@@ -16,18 +16,11 @@
       <sub>PHP Framework</sub><br/>
     </td>
     <td align="center">
-      <a href="https://reactjs.org">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="100px;" alt="React"/><br/>
-        <b>React</b><br/>
+      <a href="https://nextjs.org">
+        <img src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" width="100px;" alt="Next.js"/><br/>
+        <b>Next.js</b><br/>
       </a>
-      <sub>Javascript Framework</sub><br/>
-    </td>
-    <td align="center">
-      <a href="https://vuejs.org">
-        <img src="https://avatars3.githubusercontent.com/u/6128107?s=200&v=4" width="100px;" alt="React"/><br/>
-        <b>Vue</b><br/>
-      </a>
-      <sub>Javascript Framework</sub><br/>
+      <sub>React Framework</sub><br/>
     </td>
   </tr>
 </table>
@@ -85,10 +78,10 @@
 
 ## Examples of Sites I've Built
 
-- [greetonrepeat.com](https://greetonrepeat.com)
-- [www.centerpointarchery.com](https://www.centerpointarchery.com)
+- [bowbuilder.hoyt.com](https://bowbuilder.hoyt.com)
+- [ralstonfamilyfarms.com](https://www.ralstonfamilyfarms.com)
 - [phoenixbassboats.com](https://phoenixbassboats.com)
-- [bucksandjakes.com](https://bucksandjakes.com)
-- [townandcountrypools.us](https://townandcountrypools.us)
-- [www.westerngreen.com](https://www.westerngreen.com)
+- [greetonrepeat.com](https://greetonrepeat.com)
+- [centerpointarchery.com](https://www.centerpointarchery.com)
+- [hydromaxplumbing.com](https://hydromaxplumbing.com)
 - [brownequipment.net](https://brownequipment.net)
