@@ -82,6 +82,5 @@
 - [ralstonfamilyfarms.com](https://www.ralstonfamilyfarms.com)
 - [phoenixbassboats.com](https://phoenixbassboats.com)
 - [greetonrepeat.com](https://greetonrepeat.com)
-- [centerpointarchery.com](https://www.centerpointarchery.com)
 - [hydromaxplumbing.com](https://hydromaxplumbing.com)
 - [brownequipment.net](https://brownequipment.net)
