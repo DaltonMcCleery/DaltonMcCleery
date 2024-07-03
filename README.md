@@ -60,9 +60,9 @@
       <sub>Messaging</sub><br/>
     </td>
     <td align="center">
-      <a href="https://github.com/DaltonMcCleery">
-        <img src="https://avatars1.githubusercontent.com/u/12301619?s=200&v=4" width="100px;" alt="Brave"/><br/>
-        <b>Brave</b><br/>
+      <a href="https://arc.net">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arc_%28browser%29_logo.svg/1200px-Arc_%28browser%29_logo.svg.png" width="100px;" alt="Arc"/><br/>
+        <b>Arc</b><br/>
       </a>
       <sub>Web Browser</sub><br/>
     </td>
