@@ -1,8 +1,12 @@
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Dalton</h1>
+
+<p align="center">
+Co-Host of <a href="https://the-midwest-artisan.transistor.fm/">The Midwest Artisan Podcast</a>
+</p>
+
 ## Stats
 
 [![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonMcCleery&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonMcCleery&hide=html&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Specialties
 
@@ -17,7 +21,7 @@
     </td>
     <td align="center">
       <a href="https://nextjs.org">
-        <img src="https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" width="100px;" alt="Next.js"/><br/>
+        <img src="https://daltonmccleery.com/react-logo.svg" width="100px;" alt="React"/><br/>
         <b>Next.js</b><br/>
       </a>
       <sub>React Framework</sub><br/>
@@ -78,9 +82,61 @@
 
 ## Examples of Sites I've Built
 
-- [bowbuilder.hoyt.com](https://bowbuilder.hoyt.com)
-- [ralstonfamilyfarms.com](https://www.ralstonfamilyfarms.com)
-- [phoenixbassboats.com](https://phoenixbassboats.com)
-- [greetonrepeat.com](https://greetonrepeat.com)
-- [hydromaxplumbing.com](https://hydromaxplumbing.com)
-- [brownequipment.net](https://brownequipment.net)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://bowbuilder.hoyt.com">
+        <img src="https://daltonmccleery.com/projects/hoyt_bowbuilder.png" width="350px;" alt="Hoyt Bow Builder"/><br/>
+      </a>
+      <sub>Hoyt Bow Builder</sub><br/>
+    </td>
+    <td align="center">
+      <a href="https://greetonrepeat.com">
+        <img src="https://daltonmccleery.com/projects/greetonrepeat.png" width="350px;" alt="Greet on Repeat"/><br/>
+      </a>
+      <sub>Greet on Repeat</sub><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://vinpoint.cphandheld.com">
+        <img src="https://daltonmccleery.com/projects/cpvinpoint.png" width="350px;" alt="CPH Vinpoint"/><br/>
+      </a>
+      <sub>CPH Vinpoint</sub><br/>
+    </td>
+    <td align="center">
+      <a href="https://ralstonfamilyfarms.com">
+        <img src="https://daltonmccleery.com/projects/ralstonfamilyfarms.png" width="350px;" alt="Ralston"/><br/>
+      </a>
+      <sub>Ralston Family Farms</sub><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://vinpoint.cphandheld.com">
+        <img src="https://daltonmccleery.com/projects/phoenixbassboats.png" width="350px;" alt="Phoenix"/><br/>
+      </a>
+      <sub>Phoenix Bass Boats</sub><br/>
+    </td>
+    <td align="center">
+      <a href="https://rapidsaas.dev">
+        <img src="https://daltonmccleery.com/projects/rapidsaasConduit.png" width="350px;" alt="RapidSaaS Conduit"/><br/>
+      </a>
+      <sub>RapidSaaS Conduit</sub><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://brownequipment.net">
+        <img src="https://daltonmccleery.com/projects/brownequipment.png" width="350px;" alt="Brown Equipment"/><br/>
+      </a>
+      <sub>Brown Equipment</sub><br/>
+    </td>
+    <td align="center">
+      <a href="https://applytosictc.com">
+        <img src="https://daltonmccleery.com/projects/sictc.png" width="350px;" alt="SICTC"/><br/>
+      </a>
+      <sub>Southern Indiana Career Center</sub><br/>
+    </td>
+  </tr>
+</table>
