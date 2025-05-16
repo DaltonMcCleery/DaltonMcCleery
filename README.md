@@ -91,24 +91,10 @@ Co-Host of <a href="https://the-midwest-artisan.transistor.fm/">The Midwest Arti
       <sub>Hoyt Bow Builder</sub><br/>
     </td>
     <td align="center">
-      <a href="https://greetonrepeat.com">
-        <img src="https://daltonmccleery.com/projects/greetonrepeat.png" width="350px;" alt="Greet on Repeat"/><br/>
+      <a href="https://applytosictc.com">
+        <img src="https://daltonmccleery.com/projects/sictc.png" width="350px;" alt="SICTC"/><br/>
       </a>
-      <sub>Greet on Repeat</sub><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://vinpoint.cphandheld.com">
-        <img src="https://daltonmccleery.com/projects/cpvinpoint.png" width="350px;" alt="CPH Vinpoint"/><br/>
-      </a>
-      <sub>CPH Vinpoint</sub><br/>
-    </td>
-    <td align="center">
-      <a href="https://ralstonfamilyfarms.com">
-        <img src="https://daltonmccleery.com/projects/ralstonfamilyfarms.png" width="350px;" alt="Ralston"/><br/>
-      </a>
-      <sub>Ralston Family Farms</sub><br/>
+      <sub>Southern Indiana Career Center</sub><br/>
     </td>
   </tr>
   <tr>
@@ -119,24 +105,10 @@ Co-Host of <a href="https://the-midwest-artisan.transistor.fm/">The Midwest Arti
       <sub>Phoenix Bass Boats</sub><br/>
     </td>
     <td align="center">
-      <a href="https://rapidsaas.dev">
-        <img src="https://daltonmccleery.com/projects/rapidsaasConduit.png" width="350px;" alt="RapidSaaS Conduit"/><br/>
+      <a href="https://ralstonfamilyfarms.com">
+        <img src="https://daltonmccleery.com/projects/ralstonfamilyfarms.png" width="350px;" alt="Ralston"/><br/>
       </a>
-      <sub>RapidSaaS Conduit</sub><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://brownequipment.net">
-        <img src="https://daltonmccleery.com/projects/brownequipment.png" width="350px;" alt="Brown Equipment"/><br/>
-      </a>
-      <sub>Brown Equipment</sub><br/>
-    </td>
-    <td align="center">
-      <a href="https://applytosictc.com">
-        <img src="https://daltonmccleery.com/projects/sictc.png" width="350px;" alt="SICTC"/><br/>
-      </a>
-      <sub>Southern Indiana Career Center</sub><br/>
+      <sub>Ralston Family Farms</sub><br/>
     </td>
   </tr>
 </table>
