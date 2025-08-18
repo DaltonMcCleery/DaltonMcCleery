@@ -20,6 +20,13 @@ Co-Host of <a href="https://the-midwest-artisan.transistor.fm/">The Midwest Arti
       <sub>PHP Framework</sub><br/>
     </td>
     <td align="center">
+      <a href="https://filamentphp.com">
+        <img src="https://avatars.githubusercontent.com/u/64450473?s=200&v=4" width="100px;" alt="Laravel"/><br/>
+        <b>Filament</b><br/>
+      </a>
+      <sub>Admin Panel</sub><br/>
+    </td>
+    <td align="center">
       <a href="https://nextjs.org">
         <img src="https://daltonmccleery.com/react-logo.svg" width="100px;" alt="React"/><br/>
         <b>Next.js</b><br/>
@@ -41,9 +48,9 @@ Co-Host of <a href="https://the-midwest-artisan.transistor.fm/">The Midwest Arti
       <sub>IDE</sub><br/>
     </td>
     <td align="center">
-      <a href="https://tableplus.com">
-        <img src="https://avatars1.githubusercontent.com/u/29408238?s=200&v=4" width="100px;" alt="TablePlus"/><br/>
-        <b>TablePlus</b><br/>
+      <a href="https://www.jetbrains.com/datagrip">
+        <img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" width="100px;" alt="DataGrip"/><br/>
+        <b>DataGrip</b><br/>
       </a>
       <sub>Database Manager</sub><br/>
     </td>
@@ -57,16 +64,16 @@ Co-Host of <a href="https://the-midwest-artisan.transistor.fm/">The Midwest Arti
   </tr>
   <tr> 
     <td align="center">
-      <a href="https://slack.com">
-        <img src="https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png" width="100px;" alt="Notion"/><br/>
-        <b>Slack</b><br/>
+      <a href="https://teams.live.com">
+        <img src="https://statics.teams.cdn.live.net/evergreen-assets/gather/images/teams-logo.svg" width="100px;" alt="Teams"/><br/>
+        <b>Teams</b><br/>
       </a>
       <sub>Messaging</sub><br/>
     </td>
     <td align="center">
-      <a href="https://arc.net">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Arc_%28browser%29_logo.svg/1200px-Arc_%28browser%29_logo.svg.png" width="100px;" alt="Arc"/><br/>
-        <b>Arc</b><br/>
+      <a href="https://brave.com">
+        <img src="https://avatars1.githubusercontent.com/u/12301619?s=200&v=4" width="100px;" alt="Brave"/><br/>
+        <b>Brave</b><br/>
       </a>
       <sub>Web Browser</sub><br/>
     </td>
@@ -91,24 +98,24 @@ Co-Host of <a href="https://the-midwest-artisan.transistor.fm/">The Midwest Arti
       <sub>Hoyt Bow Builder</sub><br/>
     </td>
     <td align="center">
-      <a href="https://applytosictc.com">
-        <img src="https://daltonmccleery.com/projects/sictc.png" width="350px;" alt="SICTC"/><br/>
-      </a>
-      <sub>Southern Indiana Career Center</sub><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://vinpoint.cphandheld.com">
-        <img src="https://daltonmccleery.com/projects/phoenixbassboats.png" width="350px;" alt="Phoenix"/><br/>
-      </a>
-      <sub>Phoenix Bass Boats</sub><br/>
-    </td>
-    <td align="center">
       <a href="https://ralstonfamilyfarms.com">
         <img src="https://daltonmccleery.com/projects/ralstonfamilyfarms.png" width="350px;" alt="Ralston"/><br/>
       </a>
       <sub>Ralston Family Farms</sub><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://autoload.dev">
+        <img src="https://daltonmccleery.com/projects/autoload.png" width="350px;" alt="RapidDev Autoload"/><br/>
+      </a>
+      <sub>Autoload</sub><br/>
+    </td>
+    <td align="center">
+      <a href="https://rapidsaas.dev">
+        <img src="https://daltonmccleery.com/projects/rapidsaasConduit.png" width="350px;" alt="RapidSaaS Conduit"/><br/>
+      </a>
+      <sub>RapidSaaS Conduit</sub><br/>
     </td>
   </tr>
 </table>
