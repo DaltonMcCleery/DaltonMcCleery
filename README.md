@@ -86,36 +86,3 @@ Co-Host of <a href="https://the-midwest-artisan.transistor.fm/">The Midwest Arti
     </td>
   </tr>
 </table>
-
-## Examples of Sites I've Built
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://bowbuilder.hoyt.com">
-        <img src="https://daltonmccleery.com/projects/hoyt_bowbuilder.png" width="350px;" alt="Hoyt Bow Builder"/><br/>
-      </a>
-      <sub>Hoyt Bow Builder</sub><br/>
-    </td>
-    <td align="center">
-      <a href="https://ralstonfamilyfarms.com">
-        <img src="https://daltonmccleery.com/projects/ralstonfamilyfarms.png" width="350px;" alt="Ralston"/><br/>
-      </a>
-      <sub>Ralston Family Farms</sub><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://autoload.dev">
-        <img src="https://daltonmccleery.com/projects/autoload.png" width="350px;" alt="RapidDev Autoload"/><br/>
-      </a>
-      <sub>Autoload</sub><br/>
-    </td>
-    <td align="center">
-      <a href="https://rapidsaas.dev">
-        <img src="https://daltonmccleery.com/projects/rapidsaasConduit.png" width="350px;" alt="RapidSaaS Conduit"/><br/>
-      </a>
-      <sub>RapidSaaS Conduit</sub><br/>
-    </td>
-  </tr>
-</table>
