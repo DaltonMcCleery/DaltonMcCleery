@@ -6,7 +6,7 @@ Co-Host of <a href="https://the-midwest-artisan.transistor.fm/">The Midwest Arti
 
 ## Stats
 
-[![Dalton's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaltonMcCleery&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Dalton's GitHub stats](https://github-stats-extended.vercel.app/api?username=DaltonMcCleery&show_icons=true&hide_border=false&theme=tokyonight&count_private=true&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Specialties
 
